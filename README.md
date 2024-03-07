@@ -8,4 +8,6 @@
 
 [openai](https://chat.lmsys.org/](https://gemini.google.com/?ref=gptalk.ru)https://gemini.google.com/?ref=gptalk.ru](https://chat.openai.com/)https://chat.openai.com/ "openai")
 
+[Кибер дед](https://t.me/Ded "Feofan_Bot")
+
 
